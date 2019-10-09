@@ -74,10 +74,10 @@ Previously, I was an research scientist in Temasek Laboratories, National Univer
     <!-- ------------ Paper V - ICCV - RainFlow  ----------------- -->
     <tr>
       <td width="30%">
-         <img src="./images/ICCV19/thumbnail.png">
+         <img src="./images/paper2014.png">
       </td>
       <td valign="top" width="70%">
-        <a href="./files/2908.pdf"> 
+        <a href="https://ieeexplore.ieee.org/document/6781644"> 
           <papertitle>Block-Sparse RPCA for Salient Motion Detection</papertitle> 
         </a>
     <br>
@@ -87,13 +87,9 @@ Previously, I was an research scientist in Temasek Laboratories, National Univer
     <br>
         <em>IEEE
 Transactions on Pattern Analysis and Machine Intelligence, 36(10):	1975‐1987	(2014)	</em> <br>
-        <a href="./files/2908.pdf">arXiv</a>
+        <a href="https://ieeexplore.ieee.org/document/6781644">paper</a>
         / 
-        <a href="">codes</a>
-        / 
-        <a href="">supplementary</a>
-        /
-        <a href="">BibTex</a>
+
         <p></p>
         <p></p>
       </td>
