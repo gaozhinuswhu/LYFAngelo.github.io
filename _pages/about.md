@@ -78,18 +78,15 @@ Previously, I was an research scientist in Temasek Laboratories, National Univer
       </td>
       <td valign="top" width="70%">
         <a href="./files/2908.pdf"> 
-          <papertitle>Learning a robust representation via a deep network on symmetric positive definite manifolds</papertitle> 
+          <papertitle>Block-Sparse RPCA for Salient Motion Detection</papertitle> 
         </a>
     <br>
-        <strong>Ruoteng Li</strong>, 
-        <a href=>Zhi Gao</a>, 
-        <a href=>Yuwei Wu</a>,
-        <a href=>Xingyuan Bu</a>,
-        <a href=>Tan Yu</a>,
-        <a href=>Junsong Yuan</a>
-        <a href=>Yunde Jia</a>
+        <strong>Zhi Gao</strong>, 
+        <a>Loong-Fah Cheong</a>,
+        <a>Yu-Xiang Wang:</a>,
     <br>
-        <em>Pattern Recognition 92</em> <br>
+        <em>IEEE
+Transactions on Pattern Analysis and Machine Intelligence, 36(10):	1975‐1987	(2014)	</em> <br>
         <a href="./files/2908.pdf">arXiv</a>
         / 
         <a href="">codes</a>
