@@ -71,7 +71,6 @@ Previously, I was an research scientist in Temasek Laboratories, National Univer
 <!-- ################################  CONTENT START  #######################################-->
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
    <tbody>
-    <!-- ------------ Paper V - ICCV - RainFlow  ----------------- -->
     <tr>
       <td width="30%">
          <img src="./images/paper2014.png">
@@ -82,16 +81,41 @@ Previously, I was an research scientist in Temasek Laboratories, National Univer
         </a>
     <br>
         <strong>Zhi Gao</strong>, 
-        <a>Loong-Fah Cheong</a>,
+        <em>Loong-Fah Cheong<em>,
         <a>Yu-Xiang Wang:</a>,
     <br>
         <em>IEEE
 Transactions on Pattern Analysis and Machine Intelligence, 36(10):	1975‐1987	(2014)	</em> <br>
         <a href="https://ieeexplore.ieee.org/document/6781644">paper</a>
-        / 
-
         <p></p>
         <p></p>
       </td>
     </tr>
+    <tr>
+      <td width="30%">
+         <img src="./images/paper2014.png">
+      </td>
+      <td valign="top" width="70%">
+        <a href="https://ieeexplore.ieee.org/document/6781644"> 
+          <papertitle>Synergizing	
+Appearance	 and	 Motion	 with	 Low	 Rank	 Representation	 for	 Vehicle	 Counting	 and	 Traffic	
+Flow	 Analysis</papertitle> 
+        </a>
+    <br>
+        <strong>Zhi Gao</strong>, 
+        <a>Ruifang Zhai</a>,
+        <a>Pengfei Wang</a>,
+        <a>Xu Yan</a>,
+        <a>Hailong Qin</a>,        
+        <a>Yazhe Tang</a>,       
+        <a>Xu Yan</a>,        
+        <a>Bharath Ramesh</a>,
+    <br>
+        <em> IEEE Transactions on Intelligent Transportation Systems,	 19(8):	
+2675‐2685	(2018) </em> <br>
+        <a href="https://ieeexplore.ieee.org/document/6781644">paper</a>
+        <p></p>
+        <p></p>
+      </td>
+    </tr>    
 </tbody></table>
