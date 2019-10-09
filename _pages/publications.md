@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
-author_profile: false
----
+author_profile: true
 
+---
 1. Zhi Gao*,	L‐F	Cheong,	Y‐X	Wang.	 	Block‐Sparse	 RPCA	for	Salient	Motion	Detection.	IEEE
 Transactions on Pattern Analysis and Machine Intelligence, 36(10):	1975‐1987	(2014)	
 (IF： 9.455)	
@@ -62,13 +62,13 @@ Video	Stabilization	for	Unmanned	Aerial	Vehicles. Journal of Real‐Time Image P
 19.	 B	 Ramesh*,	 Z	 Lim,	 L	 Chen,	 C	 Xiang,	 and	 Zhi Gao.	 Scalable	 Scene	 Understanding	 via	
 Saliency	Consensus. Soft Computing, 23(7):	2429‐2443	(2019)	(IF： 2.367)	
 20. Zhi Gao*,	L‐F	 Cheong,	and	 M	 Shan.	Block‐Sparse	 RPCA	 for	 Consistent	 Foreground	
-Detection.	ECCV, Springer:	690‐703	(2012)	(中国计算机协会强烈推荐的会议)	
+Detection.	ECCV, Springer:	690‐703	(2012)	
 21. Zhi Gao*,	M	Shan,	L‐F	Cheong,	and	Q	Li.	Adaptive	and	Robust	Sparse	Coding	for	Painting	
-Style	Analysis.	ACCV, Springer:	168‐184	(2014)	(中国计算机协会强烈推荐的会议)	
+Style	Analysis.	ACCV, Springer:	168‐184	(2014)
 22. B	Ramesh*,	S	Zhang,	Z	Lee,	Zhi Gao,	G	Orchard,	and	C	Xiang.	Long‐term	Object	Tracking	
-with	a	Moving	Event	Camera.	BMVC,	241‐252	(2018)	(中国计算机协会强烈推荐的会议)	
+with	a	Moving	Event	Camera.	BMVC,	241‐252	(2018)	
 23.	X	Liu,	Zhi Gao*,	B	Ramesh,	and	B.M	Chen.	Conditional	GAN	for	Underwater	Image	Color	
-Correction.	BMVC,	1‐13	(accept	2019)	(中国计算机协会强烈推荐的会议)	
+Correction.	BMVC,	1‐13	(accept	2019)	
 24. X	 Liu,	 Zhi Gao*,	 and	 B.M	 Chen.	 Global	 Feature	 Augmented	 Conditional	 GAN	 for	
 Underwater	 Image	 Enhancement.	IEEE Transactions on Circuits and System for Video
 Technology,	(under	review,	minor	revision)	(IF： 3.558)	
@@ -77,7 +77,8 @@ Detection	 Network	 Leveraging	 on	 Simultaneous	 Super‐resolution.	IEEE Trans
 Geoscience and Remote Sensing,	(under	review,	major	revision)	(IF： 4.662)	
 26. M	 Xia	 and	 Zhi Gao*.	 A	 Closed‐Form	 Solution	 for	 Multi‐view	 Color	 Correction	 with	
 Gradient	Preservation.	ISPRS Journal of Photogrammetry and Remote Sensing,	 (under	
-review,	major	revision)	(IF： 5.994)
+review,	major	revision)	(IF： 5.994)	
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>

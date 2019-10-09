@@ -15,8 +15,8 @@ Academic Qualifications
 
 Professional Experience
 ======
-* Research Sciencist, Temasek Laboratories, National University of Singapore. (2014.03 — 2019.09)
-* Postdoctoral researcher and team leader, Department of Electrical and Electronics Engineering, National University of Singapore (2008.06 — 2014.02)
+* Research Sciencist, Temasek Laboratories, National University of Singapore, Singapore (2014.03 — 2019.09)
+* Postdoctoral researcher and team leader, Department of Electrical and Electronics Engineering, National University of Singapore, Singapore  (2008.06 — 2014.02)
 * Visiting scholar, University of Oxford, the United Kingdom (2014.11 — 2014.12)
 * Visiting scholar, University of Illinois Urbana-Champaign, United States of America (2012.07 — 2012.10)
 
