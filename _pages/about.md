@@ -78,17 +78,18 @@ Previously, I was an research scientist in Temasek Laboratories, National Univer
       </td>
       <td valign="top" width="70%">
         <a href="./files/2908.pdf"> 
-          <papertitle>RainFlow: Optical Flow under Rain Streaks and Rain Veiling Effect</papertitle> 
+          <papertitle>Learning a robust representation via a deep network on symmetric positive definite manifolds</papertitle> 
         </a>
     <br>
         <strong>Ruoteng Li</strong>, 
-        <a href="http://tanrobby.github.io/">Robby T. Tan</a>, 
-        <a href="https://www.ece.nus.edu.sg/stfpage/eleclf/">Loong-Fah Cheong</a>,
-        <a href='https://angelicaiaviles.wordpress.com'>Angelica I. Aviles-Rivero</a>,
-        <a href='https://github.com/fqnchina'>Qingnan Fan</a>,
-        <a href='http://www.damtp.cam.ac.uk/user/cbs31/Home.html'>Carola-bibiane Schönlieb</a>
+        <a href=>Zhi Gao</a>, 
+        <a href=>Yuwei Wu</a>,
+        <a href=>Xingyuan Bu</a>,
+        <a href=>Tan Yu</a>,
+        <a href=>Junsong Yuan</a>
+        <a href=>Yunde Jia</a>
     <br>
-        <em>ICCV 2019</em> <br>
+        <em>Pattern Recognition 92</em> <br>
         <a href="./files/2908.pdf">arXiv</a>
         / 
         <a href="">codes</a>
