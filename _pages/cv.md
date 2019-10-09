@@ -4,10 +4,8 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  
 ---
-
-{% include base_path %}
-
 Academic Qualifications
 ======
 * Ph.D in School of Remote Sensing and Information Engineering, Wuhan University, China (2008)
