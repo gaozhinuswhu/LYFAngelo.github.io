@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +8,22 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Academic Qualifications
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in School of Electronic Information, Wuhan University, China (2002)
+* Ph.D in School of Remote Sensing and Information Engineering, Wuhan University, China (2008)
 
-Work experience
+Professional Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Visiting scholar, University of Illinois Urbana-Champaign, United States of America (2012.07 — 2012.10)
+* Visiting scholar, University of Illinois Urbana-Champaign, United States of America (2012.07 — 2012.10)
+* Postdoctoral researcher and team leader, Department of Electrical and Electronics Engineering, National University of Singapore (2008.06 — 2014.02)
+* Research Sciencist, Temasek Laboratories, National University of Singapore. (2014.03 — 2019.09)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Professional Services
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Advisory Board: Journal of Signal and information Processing
+* Program Committee, editor, Chairman of Sub-Forum: IEEE International Conference on Advanced Robotics and Mechatronics	2018 (Singapore)
+* Editor, Chairman of Sub-Forum: 14th	 IEEE	 International	Conference	 on	 Control	 and	 Automation	 2018	 (USA) 和 15th	 IEEE	 International	
+Conference	on	Control	and	Automation	2019	(UK)
+* Reviewer: CVPR,	ECCV,	ACCV,	BMVC, IEEE Transactions on Image Processing, IEEE Transactions on Geoscience and Remote Sensing, ISPRS Journal of	 Photogrammetry and Remote Sensing, IEEE Transactions on Intelligent Transportation Systems,	IEEE Transactions on Circuits and Systems for Video	 Technology, IEEE Transactions on Biomedical Engineering, IEEE Transactions on Signal Processing, IEEE Geoscience and Remote Sensing Letters Computer Vision and Image Understanding

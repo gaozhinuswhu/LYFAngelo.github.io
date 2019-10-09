@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a professor at School of Remote Sensing and Information Engineering, Wuhan University. My main research is in artificial intelligence, computer vision and prediction problems aelated to intelligent unmanned reconnaissance system.
+I am a professor at School of Remote Sensing and Information Engineering, Wuhan University. My main research is in artificial intelligence, computer vision and remote sensing related to intelligent unmanned reconnaissance system.
 
 Previously, I was an research scientist in Temasek Laboratories, National University of Singapore. I received my PhD from Wuhan University.
-
-# Research 
-
-## Conference 
 
