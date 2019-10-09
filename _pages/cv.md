@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-
+  
 ---
 * Ph.D in School of Remote Sensing and Information Engineering, Wuhan University, China (2008)
 * B.S. in School of Electronic Information, Wuhan University, China (2002)
