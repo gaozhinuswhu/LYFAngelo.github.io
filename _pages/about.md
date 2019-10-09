@@ -74,6 +74,26 @@ Previously, I was an research scientist in Temasek Laboratories, National Univer
     <!-- ------------ Paper Start  ----------------- -->
     <tr>
       <td width="30%">
+         <img src="./images/paper2019a.png">
+      </td>
+      <td valign="top" width="70%">
+        <a href="https://ieeexplore.ieee.org/document/8629321"> 
+          <papertitle>Transform Learning Based Sparse Coding for LiDAR Data Denoising</papertitle> 
+        </a>
+    <br>
+        <strong>Zhi Gao</strong>, 
+        Hong Ji
+    <br>
+        <em> IEEE Signal Processing Letters, 26(3):	480‐484	(2019) </em> <br>
+        <a href="https://ieeexplore.ieee.org/document/8629321">Link</a>
+        <p></p>
+        <p></p>
+      </td>
+    </tr>    
+    <!-- ------------ Paper End ----------------- -->    
+    <!-- ------------ Paper Start  ----------------- -->
+    <tr>
+      <td width="30%">
          <img src="./images/paper2018.png">
       </td>
       <td valign="top" width="70%">
@@ -91,7 +111,28 @@ Previously, I was an research scientist in Temasek Laboratories, National Univer
         <p></p>
       </td>
     </tr>    
-    <!-- ------------ Paper End ----------------- -->   
+    <!-- ------------ Paper End ----------------- --> 
+    <!-- ------------ Paper Start  ----------------- -->
+    <tr>
+      <td width="30%">
+         <img src="./images/paper2016.png">
+      </td>
+      <td valign="top" width="70%">
+        <a href="https://ieeexplore.ieee.org/document/7302018"> 
+          <papertitle>Adaptive and Robust Sparse Coding for Laser Range Data Denoising and Inpainting</papertitle> 
+        </a>
+    <br>
+        <strong>Zhi Gao</strong>, 
+        Qingquan Li, Ruifang Zhai, Mo Shan, Feng Lin
+    <br>
+        <em> IEEE Transactions on Circuits and System for
+Video Technology,	26(12):	2165‐2175	(2016) </em> <br>
+        <a href="https://ieeexplore.ieee.org/document/7302018">Link</a>
+        <p></p>
+        <p></p>
+      </td>
+    </tr>    
+    <!-- ------------ Paper End ----------------- -->         
     <!-- ------------ Paper Start  ----------------- -->
     <tr>
       <td width="30%">
