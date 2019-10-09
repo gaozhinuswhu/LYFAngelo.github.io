@@ -74,25 +74,19 @@ Previously, I was an research scientist in Temasek Laboratories, National Univer
     <!-- ------------ Paper Start  ----------------- -->
     <tr>
       <td width="30%">
-         <img src="./images/paper2014.png">
+         <img src="./images/paper2018.png">
       </td>
       <td valign="top" width="70%">
-        <a href="https://ieeexplore.ieee.org/document/6781644"> 
+        <a href="https://ieeexplore.ieee.org/document/8168342"> 
           <papertitle>Synergizing	Appearance and Motion with Low Rank Representation	 for	 Vehicle	 Counting	 and	 Traffic	 Flow	 Analysis</papertitle> 
         </a>
     <br>
         <strong>Zhi Gao</strong>, 
-        <a>Ruifang Zhai</a>,
-        <a>Pengfei Wang</a>,
-        <a>Xu Yan</a>,
-        <a>Hailong Qin</a>,        
-        <a>Yazhe Tang</a>,       
-        <a>Xu Yan</a>,        
-        <a>Bharath Ramesh</a>,
+        Ruifang Zhai,Pengfei Wang,Xu Yan,Hailong Qin,Yazhe Tang,Xu Yan,Bharath Ramesh
     <br>
         <em> IEEE Transactions on Intelligent Transportation Systems,	 19(8):	
 2675‐2685	(2018) </em> <br>
-        <a href="https://ieeexplore.ieee.org/document/6781644">paper</a>
+        <a href="https://ieeexplore.ieee.org/document/8168342">Link</a>
         <p></p>
         <p></p>
       </td>
@@ -109,12 +103,11 @@ Previously, I was an research scientist in Temasek Laboratories, National Univer
         </a>
     <br>
         <strong>Zhi Gao</strong>, 
-        Loong-Fah Cheong,
-        <a>Yu-Xiang Wang:</a>,
+        Loong-Fah Cheong,Yu-Xiang Wang
     <br>
         <em>IEEE
 Transactions on Pattern Analysis and Machine Intelligence, 36(10):	1975‐1987	(2014)	</em> <br>
-        <a href="https://ieeexplore.ieee.org/document/6781644">paper</a>
+        <a href="https://ieeexplore.ieee.org/document/6781644">Link</a>
         <p></p>
         <p></p>
       </td>
