@@ -8,5 +8,11 @@ The domain analysis of the website has been stored on Aliyun.
 
 ## Content Modify
 In order to modify the contents of different pages, please visit the following directories separately:
-Personal information: _config.yml 
+
+Personal information: _config.yml
+
 Introduction and core paper presentation: _pages/about.md
+
+Publication: 
+
+CV:
