@@ -4,7 +4,7 @@ title: "TEST"
 permalink: /tttt/
 author_profile: true
 redirect_from:
-  - /aaaa
+  - /test
   
 ---
 sarafasafsad
