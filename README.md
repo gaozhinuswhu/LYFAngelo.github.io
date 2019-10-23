@@ -1,7 +1,5 @@
 This project is used to manage the personal homepage of Professor Gao. The website can be visited by both [gaozhinuswhu.com](https://gaozhinuswhu.com) and [gaozhinuswhu.github.io](https://gaozhinuswhu.github.io). The domain analysis of the website has been stored on Aliyun.
 
-The template was forked from [Academicpages Github](https://github.com/academicpages/academicpages.github.io), to find the guidance and get more information for this template, please visit [Academicpages](https://academicpages.github.io).
-
 Attention：after each modification of the file, there will be a delay of about tens of seconds on the website.
 
 ## Modify Content
@@ -37,5 +35,7 @@ Then you can wirte the main content of the page.
 
 ## Format
 The project uses Markdown to write text. For more information, please refer [Markdown](https://academicpages.github.io/markdown/).
+
+The template was forked from [Academicpages Github](https://github.com/academicpages/academicpages.github.io), to find the guidance and get more information for this template, please visit [Academicpages](https://academicpages.github.io).
 
 
