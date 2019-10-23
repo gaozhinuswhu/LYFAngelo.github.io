@@ -18,4 +18,13 @@ If you would like to modify the content, you can edit online directly.
 
 
 ## Create Content
-To create a new content for the mapsite, you should add the content name in the configuration file for the top menu, which is in [_data/navigation.yml](https://github.com/gaozhinuswhu/gaozhinuswhu.github.io/blob/master/_data/navigation.yml)
+To create a new content for the mapsite, you should add the content name in the configuration file for the top menu, which is in the  [_data/navigation.yml](https://github.com/gaozhinuswhu/gaozhinuswhu.github.io/blob/master/_data/navigation.yml). Then create the profile for the page in the [_pages](https://github.com/gaozhinuswhu/gaozhinuswhu.github.io/tree/master/_pages) and add the title below in the profile.
+
+---
+layout: archive
+title: "Test"
+permalink: /test/
+author_profile: true
+redirect_from:
+  - /test
+---
