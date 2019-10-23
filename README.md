@@ -29,7 +29,6 @@ author_profile: true
 redirect_from:
   - /Your Name 3                    // "Your Name 3" is the redirect file corresponding to navagation
 ---
-
 ```
 
 Then you can wirte the main content of the page.
