@@ -1,8 +1,10 @@
+---
 layout: archive
-title: "test"
+title: "TEST"
 permalink: /test/
 author_profile: true
 redirect_from:
   - /test
-
+  
+---
 sarafasafsad
