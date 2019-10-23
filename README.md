@@ -8,13 +8,14 @@ In order to modify the contents of different pages, please visit the following d
 Personal information: [_config.yml](https://github.com/gaozhinuswhu/gaozhinuswhu.github.io/blob/master/_config.yml)
 
 Introduction and core paper presentation: [_pages/about.md](https://github.com/gaozhinuswhu/gaozhinuswhu.github.io/blob/master/_pages/about.md)
+For adding some pictures on the core paper presentation part, please upload them in the fold [images](https://github.com/gaozhinuswhu/gaozhinuswhu.github.io/tree/master/images) first, rename the pictures and then use them in the refer to these names in the page.
 
 Publication: [_pages/publications.md](https://github.com/gaozhinuswhu/gaozhinuswhu.github.io/blob/master/_pages/publications.md)
 
 CV: [_pages/cv.md](https://github.com/gaozhinuswhu/gaozhinuswhu.github.io/blob/master/_pages/cv.md)
 
 If you would like to modify the content, you can edit online directly.
-For adding some pictures on the core paper presentation part, please upload them in the fold [images](https://github.com/gaozhinuswhu/gaozhinuswhu.github.io/tree/master/images) first, rename the pictures and then use them in the refer to these names in the page.
+
 
 ## Create Content
-To create a new content for the mapsite, 
+To create a new content for the mapsite, you should add the content name in the configuration file for the top menu, which is in [_data/navigation.yml](https://github.com/gaozhinuswhu/gaozhinuswhu.github.io/blob/master/_data/navigation.yml)
