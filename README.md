@@ -2,6 +2,8 @@ This project is used to manage the personal homepage of Professor Gao. The websi
 
 The template was forked from [Academicpages Github](https://github.com/academicpages/academicpages.github.io), to find the guidance and get more information for this template, please visit [Academicpages](https://academicpages.github.io).
 
+Attention：after each modification of the file, there will be a delay of about tens of seconds on the website.
+
 ## Modify Content
 In order to modify the contents of different pages, please visit the following directories separately:
 
