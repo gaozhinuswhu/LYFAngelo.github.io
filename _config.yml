@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gao Zhi"
 title_separator          : "-"
 name                     : &name "Gao Zhi"
-description              : &description "personal description"
+description              : &description "A professor at School of Remote Sensing and Information Engineering, Wuhan University"
 url                      : https://gaozhinuswhu.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Gao Zhi 高智"
   avatar           : "profile.png"
   bio              : "Professor"
-  location         : "Wu Han, CHINA"
+  location         : "Wuhan, CHINA"
   employer         : 
   googlescholar    : 
   email            : "gaozhinus@gmail.com"
