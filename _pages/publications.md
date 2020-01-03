@@ -3,8 +3,8 @@ layout: archive
 title: "Selected Publications"
 permalink: /publications/
 author_profile: true
-
 ---
+
 1. Zhi Gao*,	L‐F	Cheong,	Y‐X	Wang.	 	Block‐Sparse	 RPCA	for	Salient	Motion	Detection.	IEEE
 Transactions on Pattern Analysis and Machine Intelligence, 36(10):	1975‐1987	(2014)	
 (IF： 9.455)	
