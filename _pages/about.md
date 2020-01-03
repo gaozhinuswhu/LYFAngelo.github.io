@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-# About
 I am a professor at School of Remote Sensing and Information Engineering, Wuhan University. My main research is in artificial intelligence, computer vision and remote sensing related to intelligent unmanned reconnaissance system.
 
 Previously, I was an research scientist in Temasek Laboratories, National University of Singapore. I received my PhD from Wuhan University.
 
-# Research 
+# Research
 <style type="text/css">
     /* Color scheme stolen from Sergey Karayev */
     a {
