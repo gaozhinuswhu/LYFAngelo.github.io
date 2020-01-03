@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Prof. Gao Zhi's Homepage"
-excerpt: "Prof. Gao Zhi's Homepage"
+title: "Homepage of Professor Gao Zhi"
+excerpt: "Homepage of Professor Gao Zhi"
 author_profile: true
 redirect_from: 
   - /about/

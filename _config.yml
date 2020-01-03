@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Github"
-title                    : "Gao Zhi"
+title                    : "Homepage of Professor Gao Zhi"
 title_separator          : "-"
 name                     : &name "Gao Zhi"
 description              : &description "A professor at School of Remote Sensing and Information Engineering, Wuhan University"
