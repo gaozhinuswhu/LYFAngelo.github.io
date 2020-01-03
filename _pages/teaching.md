@@ -1,9 +1,12 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Courses Taught by Professor Gao Zhi"
 permalink: /teaching/
 author_profile: true
 ---
+
+# Wuhan University
+
 
 {% include base_path %}
 
