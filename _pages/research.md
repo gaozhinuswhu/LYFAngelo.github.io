@@ -72,7 +72,7 @@ Content
     <!-- ------------ Paper Start  ----------------- -->
     <tr>
       <td width="30%">
-         <img src="./images/paper2019a.png">
+         <img src="../images/paper2019a.png">
       </td>
       <td valign="top" width="70%">
         <a href="https://ieeexplore.ieee.org/document/8629321"> 
@@ -92,7 +92,7 @@ Content
     <!-- ------------ Paper Start  ----------------- -->
     <tr>
       <td width="30%">
-         <img src="./images/paper2018.png">
+         <img src="../images/paper2018.png">
       </td>
       <td valign="top" width="70%">
         <a href="https://ieeexplore.ieee.org/document/8168342"> 
@@ -113,7 +113,7 @@ Content
     <!-- ------------ Paper Start  ----------------- -->
     <tr>
       <td width="30%">
-         <img src="./images/paper2016.png">
+         <img src="../images/paper2016.png">
       </td>
       <td valign="top" width="70%">
         <a href="https://ieeexplore.ieee.org/document/7302018"> 
@@ -134,7 +134,7 @@ Video Technology,	26(12):	2165‐2175	(2016) </em> <br>
     <!-- ------------ Paper Start  ----------------- -->
     <tr>
       <td width="30%">
-         <img src="./images/paper2014.png">
+         <img src="../images/paper2014.png">
       </td>
       <td valign="top" width="70%">
         <a href="https://ieeexplore.ieee.org/document/6781644"> 

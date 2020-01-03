@@ -1,7 +1,7 @@
 ---
-permalink: /
+layout: default
 title: "Homepage of Professor Gao Zhi"
-excerpt: "Homepage of Professor Gao Zhi"
+permalink: /
 author_profile: true
 redirect_from: 
   - /about/
