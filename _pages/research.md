@@ -6,7 +6,11 @@ author_profile: true
 ---
 
 # Area of Interest
-Research Interest
+## Vision for intelligent systems
+Visual-inertial-odometry (VIO), SLAM, Visual-laser localization, Underwater localization, Visual data enhancement
+
+## Intelligent systems based vision
+Scene understanding, Object detection and localization, Visual-laser fusion, Anomaly detection, 3D reconstruction 
 
 # Funded Projects
 Content
