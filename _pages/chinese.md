@@ -1,6 +1,6 @@
 ---
 title: "高智教授的主页"
-permalink: /
+permalink: /zh/
 author_profile: true
 redirect_from: 
   - /zh/about/
