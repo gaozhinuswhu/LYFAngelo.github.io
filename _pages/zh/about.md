@@ -1,6 +1,6 @@
 ---
 title: "Homepage of Professor Gao Zhi"
-permalink: /
+permalink: /zh/
 author_profile: true
 redirect_from: 
   - /zh/
