@@ -3,6 +3,7 @@ title: "Homepage of Professor Gao Zhi"
 permalink: /
 author_profile: true
 redirect_from: 
+  - /zh/
   - /zh/about/
   - /zh/about.html
 ---
