@@ -116,7 +116,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
           <papertitle>6.	Deep Learning based Visual Localization for Intelligent Systems</papertitle> 
         <!-- </a> -->
     <br>
-        Future System Development Agency, Ministry of National Government, Singapore
+        Future System Development Agency, National Government Research Project, Singapore
     <br>
         Completed. 1/4. 2019.01-2019.12
         <p></p>
@@ -152,7 +152,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
           <papertitle>8.	Event Detection Based on Event Camera</papertitle> 
         <!-- </a> -->
     <br>
-      Future System Development Agency, Ministry of National Defense, Singapore, National Defense Research Project
+      Future System Development Agency, National Government Research Project, Singapore
     <br>
         Completed. Participated. 2018.02-2019.07
         <p></p>
@@ -170,7 +170,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
           <papertitle>9.	Traffic Behavior Monitoring Based on Intelligent UAV</papertitle> 
         <!-- </a> -->
     <br>
-      Singapore National Defense Research Institute, National Defense Research Project
+      Singapore National Government Research Institute, National Government Research Project
     <br>
         Completed. <strong>Chaired</strong>. 2018.02-2019.08
         <p></p>
@@ -188,7 +188,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
           <papertitle>10.	Research on Multi-Sensor Fusion Intelligent UAV Platform</papertitle> 
         <!-- </a> -->
     <br>
-      Future System Development Agency, Ministry of Defence, Singapore, National Defense Research Project
+      Future System Development Agency, National Government Research Project, Singapore
     <br>
         Completed. Paticipated. 2018.03-2020.04
         <p></p>
@@ -206,7 +206,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
           <papertitle>11.	Scene Reconstruction from Sparse to Dense</papertitle> 
         <!-- </a> -->
     <br>
-      Future System Development Agency, Ministry of Defence, Singapore, National Defense Research Project
+      Future System Development Agency, National Government Research Project, Singapore
     <br>
         Completed. <strong>Chaired</strong>. 2017.01-2018.01
         <p></p>
@@ -224,7 +224,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
           <papertitle>12.	Event-camera-based Anomaly Detection</papertitle> 
         <!-- </a> -->
     <br>
-      National Institute of Defense Science, Singapore
+      National Government Institute of  Science, Singapore
     <br>
         Completed. 2/4. 2017.01-2018.01
         <p></p>
@@ -242,7 +242,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
           <papertitle>13.	Robot Eye</papertitle> 
         <!-- </a> -->
     <br>
-      Future System Development Agency, Ministry of Defense, Singapore
+      Future System Development Agency, National Government Research Project, Singapore
     <br>
         Completed. 2/7. 2015.01-2019.01
         <p></p>
@@ -260,7 +260,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
           <papertitle>14. UAV Navigation Based on Google Maps</papertitle> 
         <!-- </a> -->
     <br>
-      Singapore National Defense Research Institute, National Defense Research Project
+      Singapore National Government Research Institute, National Government Research Project, Singapore
     <br>
         Completed. <strong>Chaired</strong>. 2014.06-2015.02
         <p></p>
@@ -278,7 +278,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
           <papertitle>15. Object Detection in Complex Background Based on Motion Platform</papertitle> 
         <!-- </a> -->
     <br>
-      Singapore National Defense Research Institute DSO, National Defense Research Project
+      Singapore National Government Research Institute DSO, National Government Research Project
     <br>
         Completed. <strong>Chaired</strong>. 2013.02-2014.03
         <p></p>
@@ -296,7 +296,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
           <papertitle>16.	Object detection in Dynamic Environment from a Motion Platform</papertitle> 
         <!-- </a> -->
     <br>
-      National Institute of Defense Science, Singapore
+      National Institute of Government Science, Singapore
     <br>
         Completed. 1/5. 2013.01-2014.01
         <p></p>
