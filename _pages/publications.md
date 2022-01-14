@@ -17,7 +17,7 @@ author_profile: true
 
 6.   **Zhi Gao\*** H Ji, and B Ramesh. Super EOVNet: Earth-Observation Image based Vehicle Detection Network Leveraging on Simultaneous Super-resolution. **IEEE Transactions on Geoscience and Remote Sensing**, 12(99): 3352-3561 (2019) (IF: 5.6)
 
-7.   Y.J Zhang*****, F Wen, **Zhi Gao\***, and X Lin. A Coarse‐to‐Fine Framework for Cloud Removal in Remote Sensing Image Sequence. **IEEE Transactions on Geoscience and Remote Sensing**, 57(8): 1‐12 (2019) (IF: 5.6)
+7.   Y.J Zhang*, F Wen, **Zhi Gao\***, and X Lin. A Coarse‐to‐Fine Framework for Cloud Removal in Remote Sensing Image Sequence. **IEEE Transactions on Geoscience and Remote Sensing**, 57(8): 1‐12 (2019) (IF: 5.6)
 
 8.   **Zhi Gao\***, Q Li, R.F Zhai, M Shan, and F Lin. Adaptive and Robust Sparse Coding for Laser Range Data Denoising and Inpainting. **IEEE Transactions on Circuits and System for** **Video Technology**, 26(12): 2165‐2175 (2016) (IF: 4.133)
 
@@ -43,11 +43,11 @@ author_profile: true
 
 19. F Wen, Y.J Zhang, **Zhi Gao\***, and X Lin. Two‐Pass Robust Component Analysis for Cloud Removal in Satellite Image Sequence. **IEEE Geoscience and Remote Sensing Letters**, 15(7): 1090‐1094 (2018) (IF: 3.966)
 
-20. B Ramesh*****, Z Lim, L Chen, C Xiang, and **Zhi Gao\***. Scalable Scene Understanding via Saliency Consensus. **Soft Computing**, 23(7): 2429‐2443 (2019) (IF: 3.643)
+20. B Ramesh*, Z Lim, L Chen, C Xiang, and **Zhi Gao\***. Scalable Scene Understanding via Saliency Consensus. **Soft Computing**, 23(7): 2429‐2443 (2019) (IF: 3.643)
 
 21. X Zheng, B Ramesh, **Zhi Gao\***, Y Yang, and C Xiang. A Novel Framework for Robust Long‐term Object Tracking in Real‐time. **Machine Vision and Applications**, 30(3): 529‐539 (2019) (IF: 2.012)
 
-22. A Lim, B Ramesh*****, Y Yang, C Xiang, **Zhi Gao\***, and F Lin. Real‐time Optical Flow‐based Video Stabilization for Unmanned Aerial Vehicles. **Journal of Real‐Time Image Processing**, 16: 1‐12 (2017) (IF: 2.358)
+22. A Lim, B Ramesh*, Y Yang, C Xiang, **Zhi Gao\***, and F Lin. Real‐time Optical Flow‐based Video Stabilization for Unmanned Aerial Vehicles. **Journal of Real‐Time Image Processing**, 16: 1‐12 (2017) (IF: 2.358)
 
 23. Y Zhou, S Lai, H Cheng, A H M Redhwan, P Wang, J Zhu, **Zhi Gao\***, Z Ma, Y Bi, F Lin, B M Chen. Toward Autonomy of Micro Aerial Vehicles in Unknown and Global Positioning System Denied Environments. **IEEE Transactions on Industrial Electronics,** 68(8):7642-7651 (2021) (IF: 8.236)
 
@@ -55,7 +55,7 @@ author_profile: true
 
 25. X Zhao, **Zhi Gao\***, Y Zhang and B M Chen. A Target Tracking and Positioning Framework for Video Satellites Based on SLAM. **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS),** 1887-1894(2020)
 
-26. B Ramesh*****, S Zhang, Z Lee, **Zhi Gao\***, G Orchard, and C Xiang. Long‐term Object Tracking with a Moving Event Camera. **BMVC**, 241‐252 (2018) 
+26. B Ramesh*, S Zhang, Z Lee, **Zhi Gao\***, G Orchard, and C Xiang. Long‐term Object Tracking with a Moving Event Camera. **BMVC**, 241‐252 (2018) 
 
 27. **Zhi Gao\***, M Shan, L‐F Cheong, and Q Li. Adaptive and Robust Sparse Coding for Painting Style Analysis. **ACCV**, **Springer**: 168‐184 (2014)
 
