@@ -7,9 +7,9 @@ author_profile: true
 
 # Graduate Students (Supervised or Co-supervised)
 
-<table cellspacing="0"   cellpadding="0"   border="0">
+<table border="0" cellspacing="0" cellpadding="0">
     <tr>
-        <td ><center><a link="https://gaozhinuswhu.com/students/hongji"><img src="..\images\students\default.jpg" width="100" ><p>Hong Ji</p></a></center></td>
+        <td ><center><a href="https://gaozhinuswhu.com/students/hongji"><img src="..\images\students\default.jpg" width="100" ><p>Hong Ji</p></a></center></td>
         <td ><center><img src="../images/students/default.jpg" width="100" ><p><a link="https://gaozhinuswhu.com/students/xuhuizhao">Xuhui Zhao</a></p></center></td>
         <td ><center><img src="../images/students/default.jpg" width="100" ><p><a link="https://gaozhinuswhu.com/students/shuaibingliu">Shuaibing Liu</a></p></center></td>
         <td ><center><img src="../images/students/default.jpg" width="100" ><p><a link="https://gaozhinuswhu.com/students/wenbosun">Wenbo Sun</a></p></center></td>
