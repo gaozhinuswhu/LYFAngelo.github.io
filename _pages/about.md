@@ -24,7 +24,7 @@ In terms of academic posts, I served as the editorial board of two journals. Edi
 # Research
 
 <!-- ################################  CONTENT START  #######################################-->
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0" style="font-size:1em">
    <tbody>
     <!-- ------------ Paper Start  ----------------- -->
     <tr>
@@ -33,7 +33,7 @@ In terms of academic posts, I served as the editorial board of two journals. Edi
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>1. Research on Object Detection Algorithm of Weakly Supervised and Few-shot Learning Based on MindSpore</papertitle> 
+          <strong>1. Research on Object Detection Algorithm of Weakly Supervised and Few-shot Learning Based on MindSpore</strong> 
         <!-- </a> -->
     <br>
         Chinese Association for Artificial Intelligence, Academic Award Fund Research Project 
@@ -92,7 +92,7 @@ In terms of academic posts, I served as the editorial board of two journals. Edi
          <img src="../images/paper_Gao_TPAMI_2014.png">
       </td>
       <td valign="top" width="70%">
-        <a href="https://ieeexplore.ieee.org/document/8629321"> 
+        <a href="https://ieeexplore.ieee.org/document/6781644"> 
           <papertitle>Block‐Sparse RPCA for Salient Motion Detection</papertitle> 
         </a>
     <br>
@@ -111,7 +111,7 @@ In terms of academic posts, I served as the editorial board of two journals. Edi
          <img src="../images/paper_Cao_TIP_2021b.png">
       </td>
       <td valign="top" width="70%">
-        <a href="https://ieeexplore.ieee.org/document/9478262"> 
+        <a href="https://ieeexplore.ieee.org/document/9499966"> 
           <papertitle>A Two-Stage Density-Aware Single Image Deraining Method</papertitle> 
         </a>
     <br>

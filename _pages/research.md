@@ -14,7 +14,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
 
 # Funded Projects
 <!-- ################################  CONTENT START  #######################################-->
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0" style="font-size:1em">
    <tbody>
     <!-- ------------ Paper Start  ----------------- -->
     <tr>
