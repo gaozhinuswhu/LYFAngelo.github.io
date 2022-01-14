@@ -23,12 +23,30 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>1. Research on Object Detection Algorithm of Weakly Supervised and Few-shot Learning Based on MindSpore</papertitle> 
+          <strong>1. Remote Sensing on-orbit Real-time Diagnosis for the Earth’s Surface Anomalies</strong> 
         <!-- </a> -->
     <br>
-        Chinese Association for Artificial Intelligence, Academic Award Fund Research Project 
+        National Natural Science Foundation of China 
     <br>
-        In research. <strong>Lead</strong>. 90,000 RMB. 2020.12-2021.11
+        In research. <strong>Lead</strong>. 3.7 millon RMB. 2022.01-2026.12
+        <p></p>
+        <p></p>
+      </td>
+    </tr>    
+    <!-- ------------ Paper End ----------------- --> 
+   <!-- ------------ Paper Start  ----------------- -->
+    <tr>
+      <!-- <td width="30%">
+         <img src="../images/paper2019a.png">
+      </td> -->
+      <td valign="top" width="70%">
+        <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
+          <strong>2. Localization and Scene Perception of Multi-agent Cooperation in Complex Environment</strong> 
+        <!-- </a> -->
+    <br>
+        Natural Science Foundation of Hubei Province
+    <br>
+        In research. <strong>Lead</strong>. 300,000 RMB. 2021.12-2024.12
         <p></p>
         <p></p>
       </td>
@@ -41,7 +59,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>2. Research on Visual Data Enhancement Technology under Severe Conditions Oriented by Geometric Information Extraction</papertitle> 
+          <papertitle>3. Research on Visual Data Enhancement Technology under Severe Conditions Oriented by Geometric Information Extraction</papertitle> 
         <!-- </a> -->
     <br>
         Multinational companies, Horizontal Project 
@@ -59,12 +77,30 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>3. Multi-source Optical Satellite Remote Sensing Image Intelligent Processing and Quantitative Information Extraction</papertitle> 
+          <papertitle>4. Multi-source Optical Satellite Remote Sensing Image Intelligent Processing and Quantitative Information Extraction</papertitle> 
         <!-- </a> -->
     <br>
         Natural Science Foundation of Hubei Province, Innovation Group Project
     <br>
         in research. Participated. 500,000 RMB. 2020.03-2023.03
+        <p></p>
+        <p></p>
+      </td>
+    </tr>    
+    <!-- ------------ Paper End ----------------- -->  
+    <!-- ------------ Paper Start  ----------------- -->
+    <tr>
+      <!-- <td width="30%">
+         <img src="../images/paper2019a.png">
+      </td> -->
+      <td valign="top" width="70%">
+        <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
+          <strong>5. Research on Object Detection Algorithm of Weakly Supervised and Few-shot Learning Based on MindSpore</strong> 
+        <!-- </a> -->
+    <br>
+        Chinese Association for Artificial Intelligence, Academic Award Fund Research Project 
+    <br>
+        In research. <strong>Lead</strong>. 90,000 RMB. 2020.12-2021.11
         <p></p>
         <p></p>
       </td>
@@ -77,7 +113,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>4. Research on Visual Localization under Severe Weather Conditions</papertitle> 
+          <papertitle>6. Research on Visual Localization under Severe Weather Conditions</papertitle> 
         <!-- </a> -->
     <br>
         Cooperation project of International Corporation
@@ -95,7 +131,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>5. Environmental perception and visual localization based on deep learning</papertitle> 
+          <papertitle>7. Environmental perception and visual localization based on deep learning</papertitle> 
         <!-- </a> -->
     <br>
         Singapore National Goveronment Research Institute, National Goveronment Research Project
@@ -113,7 +149,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>6.	Deep Learning based Visual Localization for Intelligent Systems</papertitle> 
+          <papertitle>8.	Deep Learning based Visual Localization for Intelligent Systems</papertitle> 
         <!-- </a> -->
     <br>
         Future System Development Agency, National Government Research Project, Singapore
@@ -131,7 +167,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>7.	Multi-agent-based Localization and Scene Reconstruction</papertitle> 
+          <papertitle>9.	Multi-agent-based Localization and Scene Reconstruction</papertitle> 
         <!-- </a> -->
     <br>
       Ministry of National Government, Singapore
@@ -149,7 +185,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>8.	Event Detection Based on Event Camera</papertitle> 
+          <papertitle>10.	Event Detection Based on Event Camera</papertitle> 
         <!-- </a> -->
     <br>
       Future System Development Agency, National Government Research Project, Singapore
@@ -167,7 +203,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>9.	Traffic Behavior Monitoring Based on Intelligent UAV</papertitle> 
+          <papertitle>11.	Traffic Behavior Monitoring Based on Intelligent UAV</papertitle> 
         <!-- </a> -->
     <br>
       Singapore National Government Research Institute, National Government Research Project
@@ -185,7 +221,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>10.	Research on Multi-Sensor Fusion Intelligent UAV Platform</papertitle> 
+          <papertitle>12.	Research on Multi-Sensor Fusion Intelligent UAV Platform</papertitle> 
         <!-- </a> -->
     <br>
       Future System Development Agency, National Government Research Project, Singapore
@@ -203,7 +239,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>11.	Scene Reconstruction from Sparse to Dense</papertitle> 
+          <papertitle>13.	Scene Reconstruction from Sparse to Dense</papertitle> 
         <!-- </a> -->
     <br>
       Future System Development Agency, National Government Research Project, Singapore
@@ -221,7 +257,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>12.	Event-camera-based Anomaly Detection</papertitle> 
+          <papertitle>14.	Event-camera-based Anomaly Detection</papertitle> 
         <!-- </a> -->
     <br>
       National Government Institute of  Science, Singapore
@@ -239,7 +275,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>13.	Robot Eye</papertitle> 
+          <papertitle>15.	Robot Eye</papertitle> 
         <!-- </a> -->
     <br>
       Future System Development Agency, National Government Research Project, Singapore
@@ -257,7 +293,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>14. UAV Navigation Based on Google Maps</papertitle> 
+          <papertitle>16. UAV Navigation Based on Google Maps</papertitle> 
         <!-- </a> -->
     <br>
       Singapore National Government Research Institute, National Government Research Project, Singapore
@@ -275,7 +311,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>15. Object Detection in Complex Background Based on Motion Platform</papertitle> 
+          <papertitle>17. Object Detection in Complex Background Based on Motion Platform</papertitle> 
         <!-- </a> -->
     <br>
       Singapore National Government Research Institute DSO, National Government Research Project
@@ -293,7 +329,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>16.	Object detection in Dynamic Environment from a Motion Platform</papertitle> 
+          <papertitle>18.	Object detection in Dynamic Environment from a Motion Platform</papertitle> 
         <!-- </a> -->
     <br>
       National Institute of Government Science, Singapore
@@ -311,7 +347,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>17.	Theory and method of high-precision digital reconstruction of complex geometric objects</papertitle> 
+          <papertitle>19.	Theory and method of high-precision digital reconstruction of complex geometric objects</papertitle> 
         <!-- </a> -->
     <br>
       973 project

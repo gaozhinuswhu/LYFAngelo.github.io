@@ -9,7 +9,7 @@ author_profile: true
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
     <tr>
-        <td ><center><img src="..\images\students\group1.jpg" width="300" ><p>Group Photo</p></a></center></td>
+        <td ><center><img src="..\images\students\group1.jpg" width="600" ><p>Group Photo</p></center></td>
     </tr>
 </table>
 <!-- 
