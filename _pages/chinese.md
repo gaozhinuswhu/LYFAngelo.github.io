@@ -23,12 +23,30 @@ redirect_from:
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <strong>1. 基于MindSpore弱监督、小样本学习条件的目标检测算法研究</strong> 
+          <strong>1. 地表异常遥感探测与即时诊断方法
+</strong> 
         <!-- </a> -->
     <br>
-        中国人工智能学会, 学术奖励基金研究课题项目 
+        国家自然科学基金, 重点项目 
     <br>
-        在研. <strong>主持</strong>. 2020.12-2021.11
+        在研. <strong>主持</strong>. 370万元. 2022.01-2026.12
+        <p></p>
+        <p></p>
+      </td>
+    </tr>   
+    <!-- ------------ Paper Start  ----------------- -->
+    <tr>
+      <!-- <td width="30%">
+         <img src="../images/paper2019a.png">
+      </td> -->
+      <td valign="top" width="70%">
+        <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
+          <papertitle>2. 复杂环境中多智能体协同的定位与场景感知研究</papertitle> 
+        <!-- </a> -->
+    <br>
+        湖北省自然科学基金, 杰出青年项目
+    <br>
+        在研. <strong>主持</strong>. 30万元. 2021.12-2024.12
         <p></p>
         <p></p>
       </td>
@@ -41,12 +59,12 @@ redirect_from:
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>2. 几何信息提取导向的恶劣条件下视觉数据增强技术研究</papertitle> 
+          <papertitle>3. 几何信息提取导向的恶劣条件下视觉数据增强技术研究</papertitle> 
         <!-- </a> -->
     <br>
         华为技术有限公司, 横向项目
     <br>
-        在研. <strong>主持</strong>.  2020.06-2021.12
+        在研. <strong>主持</strong>. 80万元. 2020.06-2021.12
         <p></p>
         <p></p>
       </td>
@@ -59,17 +77,34 @@ redirect_from:
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>3. 多源光学卫星遥感影像智能处理与定量信息提取</papertitle> 
+          <papertitle>4. 多源光学卫星遥感影像智能处理与定量信息提取</papertitle> 
         <!-- </a> -->
     <br>
         湖北省自然科学基金, 创新群体项目
     <br>
-        在研. <strong>课题负责人</strong>. 2020.03-2023.03
+        在研. <strong>课题负责人</strong>. 50万元. 2020.03-2023.03
         <p></p>
         <p></p>
       </td>
     </tr>    
-    <!-- ------------ Paper End ----------------- -->       
+    <!-- ------------ Paper End ----------------- -->   
+    <tr>
+      <!-- <td width="30%">
+         <img src="../images/paper2019a.png">
+      </td> -->
+      <td valign="top" width="70%">
+        <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
+          <strong>5. 基于MindSpore弱监督、小样本学习条件的目标检测算法研究</strong> 
+        <!-- </a> -->
+    <br>
+        中国人工智能学会, 学术奖励基金研究课题项目 
+    <br>
+        在研. <strong>主持</strong>. 9万元. 2020.12-2021.11
+        <p></p>
+        <p></p>
+      </td>
+    </tr>    
+    <!-- ------------ Paper End ----------------- -->     
     
 </tbody></table>
 

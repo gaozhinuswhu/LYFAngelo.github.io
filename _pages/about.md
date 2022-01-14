@@ -26,19 +26,37 @@ In terms of academic posts, I served as the editorial board of two journals. Edi
 <!-- ################################  CONTENT START  #######################################-->
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0" style="font-size:1em">
    <tbody>
-    <!-- ------------ Paper Start  ----------------- -->
+   <!-- ------------ Paper Start  ----------------- -->
     <tr>
       <!-- <td width="30%">
          <img src="../images/paper2019a.png">
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <strong>1. Research on Object Detection Algorithm of Weakly Supervised and Few-shot Learning Based on MindSpore</strong> 
+          <strong>1. Remote Sensing on-orbit Real-time Diagnosis for the Earth’s Surface Anomalies</strong> 
         <!-- </a> -->
     <br>
-        Chinese Association for Artificial Intelligence, Academic Award Fund Research Project 
+        National Natural Science Foundation of China 
     <br>
-        In research. <strong>Lead</strong>. 2020.12-2021.11
+        In research. <strong>Lead</strong>. 3.7 millon RMB. 2022.01-2026.12
+        <p></p>
+        <p></p>
+      </td>
+    </tr>    
+    <!-- ------------ Paper End ----------------- --> 
+   <!-- ------------ Paper Start  ----------------- -->
+    <tr>
+      <!-- <td width="30%">
+         <img src="../images/paper2019a.png">
+      </td> -->
+      <td valign="top" width="70%">
+        <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
+          <strong>2. Localization and Scene Perception of Multi-agent Cooperation in Complex Environment</strong> 
+        <!-- </a> -->
+    <br>
+        Natural Science Foundation of Hubei Province
+    <br>
+        In research. <strong>Lead</strong>. 300,000 RMB. 2021.12-2024.12
         <p></p>
         <p></p>
       </td>
@@ -51,12 +69,12 @@ In terms of academic posts, I served as the editorial board of two journals. Edi
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>2. Research on Visual Data Enhancement Technology under Severe Conditions Oriented by Geometric Information Extraction</papertitle> 
+          <papertitle>3. Research on Visual Data Enhancement Technology under Severe Conditions Oriented by Geometric Information Extraction</papertitle> 
         <!-- </a> -->
     <br>
         Multinational companies, Horizontal Project 
     <br>
-        In research. <strong>Lead</strong>.  2020.06-2021.12
+        In research. <strong>Lead</strong>. 600,000 RMB. 2020.06-2021.12
         <p></p>
         <p></p>
       </td>
@@ -69,17 +87,35 @@ In terms of academic posts, I served as the editorial board of two journals. Edi
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>3. Multi-source Optical Satellite Remote Sensing Image Intelligent Processing and Quantitative Information Extraction</papertitle> 
+          <papertitle>4. Multi-source Optical Satellite Remote Sensing Image Intelligent Processing and Quantitative Information Extraction</papertitle> 
         <!-- </a> -->
     <br>
         Natural Science Foundation of Hubei Province, Innovation Group Project
     <br>
-        in research. Participated. 2020.03-2023.03
+        in research. Participated. 500,000 RMB. 2020.03-2023.03
         <p></p>
         <p></p>
       </td>
     </tr>    
-    <!-- ------------ Paper End ----------------- -->       
+    <!-- ------------ Paper End ----------------- -->  
+    <!-- ------------ Paper Start  ----------------- -->
+    <tr>
+      <!-- <td width="30%">
+         <img src="../images/paper2019a.png">
+      </td> -->
+      <td valign="top" width="70%">
+        <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
+          <strong>5. Research on Object Detection Algorithm of Weakly Supervised and Few-shot Learning Based on MindSpore</strong> 
+        <!-- </a> -->
+    <br>
+        Chinese Association for Artificial Intelligence, Academic Award Fund Research Project 
+    <br>
+        In research. <strong>Lead</strong>. 90,000 RMB. 2020.12-2021.11
+        <p></p>
+        <p></p>
+      </td>
+    </tr>    
+    <!-- ------------ Paper End ----------------- -->         
     
 </tbody></table>
 

@@ -9,6 +9,12 @@ author_profile: true
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
     <tr>
+        <td ><center><img src="..\images\students\group1.jpg" width="300" ><p>Group Photo</p></a></center></td>
+    </tr>
+</table>
+<!-- 
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+    <tr>
         <td ><center><a href="https://gaozhinuswhu.com/students/hongji"><img src="..\images\students\default.jpg" width="100" ><p>Hong Ji</p></a></center></td>
         <td ><center><a href="https://gaozhinuswhu.com/students/xuhuizhao"><img src="../images/students/default.jpg" width="100" ><p>Xuhui Zhao</p></a></center></td>
         <td ><center><a href="https://gaozhinuswhu.com/students/shuaibingliu"><img src="../images/students/default.jpg" width="100" ><p>Shuaibing Liu</p></a></center></td>
@@ -32,7 +38,7 @@ author_profile: true
         <td ><center><a href="https://gaozhinuswhu.com/students/yushengqin"><img src="../images/students/default.jpg" width="100" ><p>Yusheng Qin</p></a></center></td>
         <td ><center><a href="https://gaozhinuswhu.com/students/haoranli"><img src="../images/students/default.jpg" width="100" ><p>Haoran Li</p></a></center></td>
     </tr>
-</table>
+</table> -->
 <!-- 
 [Hong Ji](https://gaozhinuswhu.com/students/hongji)
 [Xuhui Zhao](https://gaozhinuswhu.com/students/xuhuizhao)

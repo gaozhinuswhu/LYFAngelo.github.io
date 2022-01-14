@@ -28,7 +28,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
     <br>
         Chinese Association for Artificial Intelligence, Academic Award Fund Research Project 
     <br>
-        In research. <strong>Lead</strong>. 2020.12-2021.11
+        In research. <strong>Lead</strong>. 90,000 RMB. 2020.12-2021.11
         <p></p>
         <p></p>
       </td>
@@ -46,7 +46,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
     <br>
         Multinational companies, Horizontal Project 
     <br>
-        In research. <strong>Lead</strong>.  2020.06-2021.12
+        In research. <strong>Lead</strong>. 600,000 RMB. 2020.06-2021.12
         <p></p>
         <p></p>
       </td>
@@ -64,7 +64,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
     <br>
         Natural Science Foundation of Hubei Province, Innovation Group Project
     <br>
-        in research. Participated. 2020.03-2023.03
+        in research. Participated. 500,000 RMB. 2020.03-2023.03
         <p></p>
         <p></p>
       </td>
@@ -82,7 +82,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
     <br>
         Cooperation project of International Corporation
     <br>
-        Completed. 1/5. 2019.11-2021.01
+        Completed. 1/5. 1 million RMB. 2019.11-2021.01
         <p></p>
         <p></p>
       </td>
@@ -95,12 +95,12 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>5. Research on Visual Localization under Severe Weather Conditions</papertitle> 
+          <papertitle>5. Environmental perception and visual localization based on deep learning</papertitle> 
         <!-- </a> -->
     <br>
-        Cooperation project of International Corporation
+        Singapore National Goveronment Research Institute, National Goveronment Research Project
     <br>
-        Completed. Participated. 2019.11-2021.01
+        Completed. Participated. 500,000 RMB. 2019.01-2020.06
         <p></p>
         <p></p>
       </td>
@@ -118,7 +118,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
     <br>
         Future System Development Agency, National Government Research Project, Singapore
     <br>
-        Completed. 1/4. 2019.01-2019.12
+        Completed. 1/4. 60,000 Singapore dollars. 2019.01-2019.12
         <p></p>
         <p></p>
       </td>
@@ -136,7 +136,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
     <br>
       Ministry of National Government, Singapore
     <br>
-        Completed. 1/6. 2018.04-2019.10
+        Completed. 1/6. 150,000 Singapore dollars. 2018.04-2019.10
         <p></p>
         <p></p>
       </td>
@@ -154,7 +154,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
     <br>
       Future System Development Agency, National Government Research Project, Singapore
     <br>
-        Completed. Participated. 2018.02-2019.07
+        Completed. Participated. 300,000 RMB. 2018.02-2019.07
         <p></p>
         <p></p>
       </td>
@@ -172,7 +172,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
     <br>
       Singapore National Government Research Institute, National Government Research Project
     <br>
-        Completed. <strong>Chaired</strong>. 2018.02-2019.08
+        Completed. <strong>Chaired</strong>. 500,000 RMB. 2018.02-2019.08
         <p></p>
         <p></p>
       </td>
@@ -190,7 +190,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
     <br>
       Future System Development Agency, National Government Research Project, Singapore
     <br>
-        Completed. Paticipated. 2018.03-2020.04
+        Completed. Paticipated. 6 million RMB. 2018.03-2020.04
         <p></p>
         <p></p>
       </td>
@@ -208,7 +208,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
     <br>
       Future System Development Agency, National Government Research Project, Singapore
     <br>
-        Completed. <strong>Chaired</strong>. 2017.01-2018.01
+        Completed. <strong>Chaired</strong>. 300,000 RMB. 2017.01-2018.01
         <p></p>
         <p></p>
       </td>
@@ -226,7 +226,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
     <br>
       National Government Institute of  Science, Singapore
     <br>
-        Completed. 2/4. 2017.01-2018.01
+        Completed. 2/4. 50,000 Singapore dollars. 2017.01-2018.01
         <p></p>
         <p></p>
       </td>
@@ -244,7 +244,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
     <br>
       Future System Development Agency, National Government Research Project, Singapore
     <br>
-        Completed. 2/7. 2015.01-2019.01
+        Completed. 2/7. 600,000 Singapore dollars. 2015.01-2019.01
         <p></p>
         <p></p>
       </td>
@@ -262,7 +262,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
     <br>
       Singapore National Government Research Institute, National Government Research Project, Singapore
     <br>
-        Completed. <strong>Chaired</strong>. 2014.06-2015.02
+        Completed. <strong>Chaired</strong>. 250,000 RMB. 2014.06-2015.02
         <p></p>
         <p></p>
       </td>
@@ -280,7 +280,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
     <br>
       Singapore National Government Research Institute DSO, National Government Research Project
     <br>
-        Completed. <strong>Chaired</strong>. 2013.02-2014.03
+        Completed. <strong>Chaired</strong>. 250,000 RMB. 2013.02-2014.03
         <p></p>
         <p></p>
       </td>
@@ -298,7 +298,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
     <br>
       National Institute of Government Science, Singapore
     <br>
-        Completed. 1/5. 2013.01-2014.01
+        Completed. 1/5. 100,000 Singapore dollars. 2013.01-2014.01
         <p></p>
         <p></p>
       </td>
@@ -316,7 +316,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
     <br>
       973 project
     <br>
-        Completed. 3/15. 2012.09-2016.09
+        Completed. 3/15. 2.3 million RMB. 2012.09-2016.09
         <p></p>
         <p></p>
       </td>
