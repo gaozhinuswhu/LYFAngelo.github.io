@@ -81,14 +81,9 @@ In terms of academic posts, I served as the editorial board of two journals. Edi
     </tr>    
     <!-- ------------ Paper End ----------------- -->   
     <!-- ------------ Paper Start  ----------------- -->
-    <tr>
-      <!-- <td width="30%">
-         <img src="../images/paper2019a.png">
-      </td> -->
+    <!-- <tr>
       <td valign="top" width="70%">
-        <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>4. Multi-source Optical Satellite Remote Sensing Image Intelligent Processing and Quantitative Information Extraction</papertitle> 
-        <!-- </a> -->
+          <papertitle>4. Multi-source Optical Satellite Remote Sensing Image Intelligent Processing and Quantitative Information Extraction</papertitle>
     <br>
         Natural Science Foundation of Hubei Province, Innovation Group Project
     <br>
@@ -96,7 +91,7 @@ In terms of academic posts, I served as the editorial board of two journals. Edi
         <p></p>
         <p></p>
       </td>
-    </tr>    
+    </tr>     -->
     <!-- ------------ Paper End ----------------- -->  
     <!-- ------------ Paper Start  ----------------- -->
     <tr>
@@ -105,7 +100,7 @@ In terms of academic posts, I served as the editorial board of two journals. Edi
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <strong>5. Research on Object Detection Algorithm of Weakly Supervised and Few-shot Learning Based on MindSpore</strong> 
+          <strong>4. Research on Object Detection Algorithm of Weakly Supervised and Few-shot Learning Based on MindSpore</strong> 
         <!-- </a> -->
     <br>
         Chinese Association for Artificial Intelligence, Academic Award Fund Research Project 
