@@ -71,14 +71,9 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
     </tr>    
     <!-- ------------ Paper End ----------------- -->   
     <!-- ------------ Paper Start  ----------------- -->
-    <tr>
-      <!-- <td width="30%">
-         <img src="../images/paper2019a.png">
-      </td> -->
+    <!-- <tr>
       <td valign="top" width="70%">
-        <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>4. Multi-source Optical Satellite Remote Sensing Image Intelligent Processing and Quantitative Information Extraction</papertitle> 
-        <!-- </a> -->
+          <papertitle>4. Multi-source Optical Satellite Remote Sensing Image Intelligent Processing and Quantitative Information Extraction</papertitle>
     <br>
         Natural Science Foundation of Hubei Province, Innovation Group Project
     <br>
@@ -86,7 +81,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
         <p></p>
         <p></p>
       </td>
-    </tr>    
+    </tr>     -->
     <!-- ------------ Paper End ----------------- -->  
     <!-- ------------ Paper Start  ----------------- -->
     <tr>
@@ -95,7 +90,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <strong>5. Research on Object Detection Algorithm of Weakly Supervised and Few-shot Learning Based on MindSpore</strong> 
+          <strong>4. Research on Object Detection Algorithm of Weakly Supervised and Few-shot Learning Based on MindSpore</strong> 
         <!-- </a> -->
     <br>
         Chinese Association for Artificial Intelligence, Academic Award Fund Research Project 
@@ -113,7 +108,7 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
       </td> -->
       <td valign="top" width="70%">
         <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>6. Research on Visual Localization under Severe Weather Conditions</papertitle> 
+          <papertitle>5. Research on Visual Localization under Severe Weather Conditions</papertitle> 
         <!-- </a> -->
     <br>
         Cooperation project of International Corporation
@@ -123,241 +118,8 @@ Scene understanding, Object detection and localization, Visual-laser fusion, Ano
         <p></p>
       </td>
     </tr>    
-    <!-- ------------ Paper End ----------------- -->   
-    <!-- ------------ Paper Start  ----------------- -->
-    <tr>
-      <!-- <td width="30%">
-         <img src="../images/paper2019a.png">
-      </td> -->
-      <td valign="top" width="70%">
-        <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>7. Environmental perception and visual localization based on deep learning</papertitle> 
-        <!-- </a> -->
-    <br>
-        Singapore National Goveronment Research Institute, National Goveronment Research Project
-    <br>
-        Completed. Participated. 500,000 RMB. 2019.01-2020.06
-        <p></p>
-        <p></p>
-      </td>
-    </tr>    
-    <!-- ------------ Paper End ----------------- -->   
-    <!-- ------------ Paper Start  ----------------- -->
-    <tr>
-      <!-- <td width="30%">
-         <img src="../images/paper2019a.png">
-      </td> -->
-      <td valign="top" width="70%">
-        <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>8.	Deep Learning based Visual Localization for Intelligent Systems</papertitle> 
-        <!-- </a> -->
-    <br>
-        Future System Development Agency, National Government Research Project, Singapore
-    <br>
-        Completed. 1/4. 60,000 Singapore dollars. 2019.01-2019.12
-        <p></p>
-        <p></p>
-      </td>
-    </tr>    
     <!-- ------------ Paper End ----------------- -->
-    <!-- ------------ Paper Start  ----------------- -->
-    <tr>
-      <!-- <td width="30%">
-         <img src="../images/paper2019a.png">
-      </td> -->
-      <td valign="top" width="70%">
-        <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>9.	Multi-agent-based Localization and Scene Reconstruction</papertitle> 
-        <!-- </a> -->
-    <br>
-      Ministry of National Government, Singapore
-    <br>
-        Completed. 1/6. 150,000 Singapore dollars. 2018.04-2019.10
-        <p></p>
-        <p></p>
-      </td>
-    </tr>    
-    <!-- ------------ Paper End ----------------- -->
-    <!-- ------------ Paper Start  ----------------- -->
-    <tr>
-      <!-- <td width="30%">
-         <img src="../images/paper2019a.png">
-      </td> -->
-      <td valign="top" width="70%">
-        <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>10.	Event Detection Based on Event Camera</papertitle> 
-        <!-- </a> -->
-    <br>
-      Future System Development Agency, National Government Research Project, Singapore
-    <br>
-        Completed. Participated. 300,000 RMB. 2018.02-2019.07
-        <p></p>
-        <p></p>
-      </td>
-    </tr>    
-    <!-- ------------ Paper End ----------------- -->
-    <!-- ------------ Paper Start  ----------------- -->
-    <tr>
-      <!-- <td width="30%">
-         <img src="../images/paper2019a.png">
-      </td> -->
-      <td valign="top" width="70%">
-        <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>11.	Traffic Behavior Monitoring Based on Intelligent UAV</papertitle> 
-        <!-- </a> -->
-    <br>
-      Singapore National Government Research Institute, National Government Research Project
-    <br>
-        Completed. <strong>Chaired</strong>. 500,000 RMB. 2018.02-2019.08
-        <p></p>
-        <p></p>
-      </td>
-    </tr>    
-    <!-- ------------ Paper End ----------------- -->
-    <!-- ------------ Paper Start  ----------------- -->
-    <tr>
-      <!-- <td width="30%">
-         <img src="../images/paper2019a.png">
-      </td> -->
-      <td valign="top" width="70%">
-        <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>12.	Research on Multi-Sensor Fusion Intelligent UAV Platform</papertitle> 
-        <!-- </a> -->
-    <br>
-      Future System Development Agency, National Government Research Project, Singapore
-    <br>
-        Completed. Paticipated. 6 million RMB. 2018.03-2020.04
-        <p></p>
-        <p></p>
-      </td>
-    </tr>    
-    <!-- ------------ Paper End ----------------- -->
-    <!-- ------------ Paper Start  ----------------- -->
-    <tr>
-      <!-- <td width="30%">
-         <img src="../images/paper2019a.png">
-      </td> -->
-      <td valign="top" width="70%">
-        <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>13.	Scene Reconstruction from Sparse to Dense</papertitle> 
-        <!-- </a> -->
-    <br>
-      Future System Development Agency, National Government Research Project, Singapore
-    <br>
-        Completed. <strong>Chaired</strong>. 300,000 RMB. 2017.01-2018.01
-        <p></p>
-        <p></p>
-      </td>
-    </tr>    
-    <!-- ------------ Paper End ----------------- -->
-    <!-- ------------ Paper Start  ----------------- -->
-    <tr>
-      <!-- <td width="30%">
-         <img src="../images/paper2019a.png">
-      </td> -->
-      <td valign="top" width="70%">
-        <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>14.	Event-camera-based Anomaly Detection</papertitle> 
-        <!-- </a> -->
-    <br>
-      National Government Institute of  Science, Singapore
-    <br>
-        Completed. 2/4. 50,000 Singapore dollars. 2017.01-2018.01
-        <p></p>
-        <p></p>
-      </td>
-    </tr>    
-    <!-- ------------ Paper End ----------------- -->
-    <!-- ------------ Paper Start  ----------------- -->
-    <tr>
-      <!-- <td width="30%">
-         <img src="../images/paper2019a.png">
-      </td> -->
-      <td valign="top" width="70%">
-        <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>15.	Robot Eye</papertitle> 
-        <!-- </a> -->
-    <br>
-      Future System Development Agency, National Government Research Project, Singapore
-    <br>
-        Completed. 2/7. 600,000 Singapore dollars. 2015.01-2019.01
-        <p></p>
-        <p></p>
-      </td>
-    </tr>    
-    <!-- ------------ Paper End ----------------- -->
-    <!-- ------------ Paper Start  ----------------- -->
-    <tr>
-      <!-- <td width="30%">
-         <img src="../images/paper2019a.png">
-      </td> -->
-      <td valign="top" width="70%">
-        <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>16. UAV Navigation Based on Google Maps</papertitle> 
-        <!-- </a> -->
-    <br>
-      Singapore National Government Research Institute, National Government Research Project, Singapore
-    <br>
-        Completed. <strong>Chaired</strong>. 250,000 RMB. 2014.06-2015.02
-        <p></p>
-        <p></p>
-      </td>
-    </tr>    
-    <!-- ------------ Paper End ----------------- -->
-    <!-- ------------ Paper Start  ----------------- -->
-    <tr>
-      <!-- <td width="30%">
-         <img src="../images/paper2019a.png">
-      </td> -->
-      <td valign="top" width="70%">
-        <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>17. Object Detection in Complex Background Based on Motion Platform</papertitle> 
-        <!-- </a> -->
-    <br>
-      Singapore National Government Research Institute DSO, National Government Research Project
-    <br>
-        Completed. <strong>Chaired</strong>. 250,000 RMB. 2013.02-2014.03
-        <p></p>
-        <p></p>
-      </td>
-    </tr>    
-    <!-- ------------ Paper End ----------------- -->
-    <!-- ------------ Paper Start  ----------------- -->
-    <tr>
-      <!-- <td width="30%">
-         <img src="../images/paper2019a.png">
-      </td> -->
-      <td valign="top" width="70%">
-        <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>18.	Object detection in Dynamic Environment from a Motion Platform</papertitle> 
-        <!-- </a> -->
-    <br>
-      National Institute of Government Science, Singapore
-    <br>
-        Completed. 1/5. 100,000 Singapore dollars. 2013.01-2014.01
-        <p></p>
-        <p></p>
-      </td>
-    </tr>    
-    <!-- ------------ Paper End ----------------- -->
-    <!-- ------------ Paper Start  ----------------- -->
-    <tr>
-      <!-- <td width="30%">
-         <img src="../images/paper2019a.png">
-      </td> -->
-      <td valign="top" width="70%">
-        <!-- <a href="https://ieeexplore.ieee.org/document/8629321">  -->
-          <papertitle>19.	Theory and method of high-precision digital reconstruction of complex geometric objects</papertitle> 
-        <!-- </a> -->
-    <br>
-      973 project
-    <br>
-        Completed. 3/15. 2.3 million RMB. 2012.09-2016.09
-        <p></p>
-        <p></p>
-      </td>
-    </tr>    
-    <!-- ------------ Paper End ----------------- -->
+    
 </tbody></table>
 
 

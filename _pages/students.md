@@ -7,11 +7,11 @@ author_profile: true
 
 # Graduate Students (Supervised or Co-supervised)
 
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+<!-- <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td ><center><img src="..\images\students\group1.jpg" width="600" ><p>Group Photo</p></center></td>
     </tr>
-</table>
+</table> -->
 <!-- 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
     <tr>

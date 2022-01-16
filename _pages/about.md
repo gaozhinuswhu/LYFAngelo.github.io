@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently working as a Full Professor, Doctoral Supervisor at the School of Remote Sensing and Information Engineering, Wuhan University. 
 
-I received the prestigious "the 1000 talents plan for young talents" award and Hubei Province Funds for Distinguished Young Scientists. In addition, I am also a "Chutian Scholar" distinguished Professor in Hubei Province. 
+I am supported by National Young Talent Program and Hubei Province Funds for Distinguished Young Scientists. In addition, I am also a "Chutian Scholar" distinguished Professor in Hubei Province. 
 
 In the past 11 years, I have worked as a postdoctoral fellow, research Fellow and independent PI at the National University of Singapore. 
 
@@ -72,7 +72,7 @@ In terms of academic posts, I served as the editorial board of two journals. Edi
           <papertitle>3. Research on Visual Data Enhancement Technology under Severe Conditions Oriented by Geometric Information Extraction</papertitle> 
         <!-- </a> -->
     <br>
-        Multinational companies, Horizontal Project 
+        International companies, Horizontal Project 
     <br>
         In research. <strong>Lead</strong>. 600,000 RMB. 2020.06-2021.12
         <p></p>
