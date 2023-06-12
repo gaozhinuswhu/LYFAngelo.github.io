@@ -10,8 +10,7 @@ author_profile: true
 2. M Cao, **Zhi Gao\***, B Ramesh, T Mei, J Cui. A Two- Stage Density-Aware Single Image Deraining Method, **IEEE Transactions on Image Processing**, 30: 6843- 6854 (2021) (IF: 10.856)
 
 3. **Zhi Gao\***, X Zhao, M Cao, Z Li, K Liu and B M Chen. Synergizing Low Rank Representation and Deep Learning for Automatic Pavement Crack Detection, **IEEE Transactions on Intelligent Transportation Systems**. (IF:9.551)
-
-  Note: for the proposed PEARL dataset, you can connect us and request on demand, we will provide you the dataset.
+Note: for the proposed PEARL dataset, you can connect us and request on demand, we will provide you the dataset.
 
 4. M Xia, Jian Yao and **Zhi Gao\***. A Closed-form Solution for Multi-view Color Correction with Gradient Preservation. **ISPRS Journal of Photogrammetry and Remote Sensing** (2019): 188-200. (IF: 8.979)
 
