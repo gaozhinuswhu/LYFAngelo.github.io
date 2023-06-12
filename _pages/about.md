@@ -154,6 +154,26 @@ In terms of academic posts, I served as the editorial board of two journals. Edi
         <p></p>
       </td>
     </tr>    
+    <!-- ------------ Paper End ----------------- -->
+    <!-- ------------ Paper Start  ----------------- -->
+    <tr>
+      <td width="30%">
+         <img src="../images/paper_TITS_2023.png">
+      </td>
+      <td valign="top" width="70%">
+        <a href="https://ieeexplore.ieee.org/document/10132879"> 
+          <papertitle>Synergizing Low Rank Representation and Deep Learning for Automatic Pavement Crack Detection</papertitle> 
+        </a>
+    <br>
+        <strong>Zhi Gao*</strong>, Xuhui Zhao, Min Cao, Ziyao Li, Kangcheng Liu, Ben M. Chen
+    <br>
+        <em>IEEE Transactions on Intelligent Transportation Systems.</em> <br>
+        <u>For the proposed PEARL dataset, you can connect us and request on demand, we will provide you the dataset.</u> <br>
+        <!-- <a href="https://ieeexplore.ieee.org/document/8629321">Link</a> -->
+        <p></p>
+        <p></p>
+      </td>
+    </tr>    
     <!-- ------------ Paper End ----------------- -->    
         
 </tbody></table>
